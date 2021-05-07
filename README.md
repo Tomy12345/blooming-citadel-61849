@@ -1,3 +1,18 @@
+Bonjour Jean,
+
+Pour ce TP, j'ai créé une application React à pratir d'un code déjà existant, que j'ai modifié par la suite pour qu'il me soit un peu plus approporié.
+
+J'ai commencé par le faire fonctionner en local (localhost:3000), puis j'ai mis les codes sur GitHub. C'est à partir de GitHub que j'ai pu modifié les codes et les adapter à mon besoin. J'ai aussi pu t'ajouter en tant que contributeur, afin que tu y aies accès.
+
+J'ai ensuite fait une connection avec Heroku afin que mes modifications se fassent automatiquement.
+
+J'ai ensuite pu écrire un Dockerfile et push une image sur Docker Hub. Je l'ai mise en publique afin qu'elle soit visible par tous.
+
+Je devais bien évidedmment commit mes changements avec un commentaire.
+
+_____________________________________________________________________________________________________________
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
